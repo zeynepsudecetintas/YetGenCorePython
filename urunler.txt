@@ -1,0 +1,4 @@
+armut, 5
+armut, 7
+armut, 8
+armut, 50
